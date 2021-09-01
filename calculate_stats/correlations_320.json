@@ -1,0 +1,782 @@
+[
+    {
+        "c": 98.72,
+        "p": 10.19,
+        "y": "DSC 13 - Bander controller: Band error at back of machine: Photo detector PDM_TRS is always covered",
+        "o": 3
+    },
+    {
+        "c": 93.71,
+        "p": 22.7,
+        "y": "DSC 13 - BNP: Please band manually! (Stacker 3)",
+        "o": 3
+    },
+    {
+        "c": 89.62,
+        "p": 29.27,
+        "y": "DSC 23 - BNP: Please weld foil manually! (Stacker 7)",
+        "o": 3
+    },
+    {
+        "c": 77.11,
+        "p": 22.89,
+        "y": "GPC 1 - Photo detector process: Error occured at test of photo detectors. Please clean photo detector(s)! PDG 13 (32)",
+        "o": 4
+    },
+    {
+        "c": 66.81,
+        "p": 33.19,
+        "y": "DSC 13 - Bander controller: Bundler drop out error: Bundle Drop: Not in idle position",
+        "o": 4
+    },
+    {
+        "c": 45.66,
+        "p": 36.27,
+        "y": "STC - Transport monitoring: Trailing edge later than expected (PDT 02)",
+        "o": 6
+    },
+    {
+        "c": 39.63,
+        "p": 11.53,
+        "y": "STC - Global machine process: Emergency-stop activated",
+        "o": 17
+    },
+    {
+        "c": 36.71,
+        "p": 29.67,
+        "y": "DSC 12 - Bander controller: Bundler drop out error: Bundle Drop: Time-out (work -> idle)",
+        "o": 10
+    },
+    {
+        "c": 30.99,
+        "p": 0.49,
+        "y": "Bundle transport: Conveyor belt not ready",
+        "o": 81
+    },
+    {
+        "c": 30.82,
+        "p": 5.3,
+        "y": "DSC 13 - Bander controller: Stacker error: Bottom Bundle Band: top position reached",
+        "o": 40
+    },
+    {
+        "c": 23.05,
+        "p": 14.2,
+        "y": "DSC 13 - BNP: Manual push out of output-packages is active / necessary. (Stacker 3)",
+        "o": 42
+    },
+    {
+        "c": 15.88,
+        "p": 84.12,
+        "y": "GPC 1 - Photo detector process: Photo detector dirty. Please clean photo detector(s). PDG 12 (64)",
+        "o": 4
+    },
+    {
+        "c": 13.94,
+        "p": 59.36,
+        "y": "GPC 2 - Transport monitoring: Leading edge later than expected (PDTS 1)",
+        "o": 17
+    },
+    {
+        "c": 12.85,
+        "p": 80.84,
+        "y": "DSC 13 - BNP: Please weld foil manually! (Stacker 3)",
+        "o": 6
+    },
+    {
+        "c": 12.44,
+        "p": 52.84,
+        "y": "DSC 12 - BNP: Please advance band! (Stacker 2)",
+        "o": 28
+    },
+    {
+        "c": 10.22,
+        "p": 93.48,
+        "y": "DSC 14 - BNP: Band advancing is active (Stacker 4)",
+        "o": 3
+    },
+    {
+        "c": 6.43,
+        "p": 95.9,
+        "y": "DSC 13 - Bander controller: Band error at back of machine: Photo detector PDM_TRS was not covered",
+        "o": 3
+    },
+    {
+        "c": 6.29,
+        "p": 90.57,
+        "y": "STC - Global machine process: Server task 'Singler Release': Reason for singler stop still set (Sensor System)",
+        "o": 6
+    },
+    {
+        "c": 6.23,
+        "p": 88.35,
+        "y": "*Data have been written successfully",
+        "o": 8
+    },
+    {
+        "c": 6.12,
+        "p": 79.2,
+        "y": "DSC 12 - Bander controller: Stacker error: OPA collector: bottom reached and PD OPA upper edge still covered",
+        "o": 21
+    },
+    {
+        "c": 5.51,
+        "p": 96.49,
+        "y": "DSC 21 - Bander controller: Stacker error: OPA collector: bottom reached and PD OPA upper edge still covered",
+        "o": 3
+    },
+    {
+        "c": 5.16,
+        "p": 83.38,
+        "y": "DSC 22 - BNP: Please weld foil manually! (Stacker 6)",
+        "o": 19
+    },
+    {
+        "c": 5.11,
+        "p": 88.85,
+        "y": "DSC 13 - BNP: Auto bundle band adjust active (Stacker 3)",
+        "o": 10
+    },
+    {
+        "c": 4.62,
+        "p": 25.34,
+        "y": "Sensor System - Detector Position 10 (right) (NSC2RR): Clean sensor -- Camera window is dirty. Call service if error persists.",
+        "o": 613
+    },
+    {
+        "c": 4.21,
+        "p": 82.53,
+        "y": "DSC 12 - BNP: Band advancing is active (Stacker 2)",
+        "o": 30
+    },
+    {
+        "c": 4.03,
+        "p": 92.45,
+        "y": "*SMC - Large Continuous Feeder: Make sure that the light curtain of singler sliding door is not covered.",
+        "o": 8
+    },
+    {
+        "c": 3.72,
+        "p": 90.39,
+        "y": "SMC - Large Continuous Feeder: Please remove banknotes from singler rake and singler plate. Confirming the message results in starting the init sequence of the singler.",
+        "o": 13
+    },
+    {
+        "c": 3.17,
+        "p": 4.21,
+        "y": "Fit",
+        "o": 4110
+    },
+    {
+        "c": 2.77,
+        "p": 92.18,
+        "y": "STC - Transport Open Control: Uexpected position of sensor swivel plate.: Transport area no longer in closed position due to external influence.",
+        "o": 15
+    },
+    {
+        "c": 2.05,
+        "p": 84.05,
+        "y": "Sensor System - Detector Position 6 (M10): Check environment for a source of electromagnetic interference. Call service if error persists.",
+        "o": 99
+    },
+    {
+        "c": 1.59,
+        "p": 97.98,
+        "y": "DSC 11 - Bander controller: Bander error: Stacking area blocked (standing BN?)",
+        "o": 5
+    },
+    {
+        "c": 1.59,
+        "p": 97.98,
+        "y": "DSC 11 - BNP: Please band manually! (Stacker 1)",
+        "o": 5
+    },
+    {
+        "c": 1.59,
+        "p": 97.98,
+        "y": "System event: Manual banding active for Stacker 1",
+        "o": 5
+    },
+    {
+        "c": 1.07,
+        "p": 95.2,
+        "y": "DSC 14 - Bander controller: Bander error: Banknotes are still laying on the collecting plate",
+        "o": 34
+    },
+    {
+        "c": -1.17,
+        "p": 98.83,
+        "y": "DSC 22 - Bander controller: Stacker error: OPA collector: bottom reached and PD OPA upper edge still covered",
+        "o": 4
+    },
+    {
+        "c": -1.89,
+        "p": 93.89,
+        "y": "DSC 12 - Bander controller: Bander error: Banknotes are still laying on the collecting plate",
+        "o": 19
+    },
+    {
+        "c": -2.6,
+        "p": 76.78,
+        "y": "DSC 12 - Bander controller: Bundler drop out error: Bundle Drop: Not in idle position",
+        "o": 131
+    },
+    {
+        "c": -3.32,
+        "p": 97.89,
+        "y": "DSC 14 - BNP: Please band manually! (Stacker 4)",
+        "o": 3
+    },
+    {
+        "c": -4.03,
+        "p": 70.28,
+        "y": "MPC - BNP: Plausibility limit for rejects has been exceeded: More than X banknotes in a row have been driven into the reject compartment.",
+        "o": 92
+    },
+    {
+        "c": -4.57,
+        "p": 89.38,
+        "y": "DSC 12 - Bander controller: Bander error: PD band cut: covered (band not cut)",
+        "o": 11
+    },
+    {
+        "c": -4.78,
+        "p": 8.33,
+        "y": "System event: Reject empty",
+        "o": 1312
+    },
+    {
+        "c": -4.95,
+        "p": 96.85,
+        "y": "DSC 13 - Bander controller: Bander error: Extractor: Time-out (work -> idle)",
+        "o": 3
+    },
+    {
+        "c": -5.8,
+        "p": 85.07,
+        "y": "DSC 22 - Bander controller: Bundler drop out error: Bundle Drop: Not in idle position",
+        "o": 13
+    },
+    {
+        "c": -6.21,
+        "p": 0.04,
+        "y": "ATM",
+        "o": 3308
+    },
+    {
+        "c": -7.4,
+        "p": 55.19,
+        "y": "SMC - Singler Gate Control: Timeout while singler sliding door is : closed",
+        "o": 67
+    },
+    {
+        "c": -7.61,
+        "p": 71.18,
+        "y": "SMC - Large Continuous Feeder: Error during rake movement: Rake down movement to feeder position failed. Confirm the disturbance message. Please call service if the disturbance occurs again.",
+        "o": 26
+    },
+    {
+        "c": -8.46,
+        "p": 50.99,
+        "y": "SMC - Large Continuous Feeder: Error during rake movement: Rake back movement failed. Confirm the disturbance message. Please call service if the disturbance occurs again.",
+        "o": 63
+    },
+    {
+        "c": -8.74,
+        "p": 56.34,
+        "y": "STC - Transport monitoring: Too many unexpected events (PDT 04)",
+        "o": 46
+    },
+    {
+        "c": -9.86,
+        "p": 38.12,
+        "y": "Please remove non-transportable banknotes from the transport section 'Sensor / Reject Stacker / PDT 02' and enter the number. Then place the banknotes in the reject compartment!",
+        "o": 81
+    },
+    {
+        "c": -9.9,
+        "p": 17.52,
+        "y": "End HC-Recovery:",
+        "o": 189
+    },
+    {
+        "c": -10.42,
+        "p": 15.79,
+        "y": "Begin HC-Recovery:",
+        "o": 185
+    },
+    {
+        "c": -10.5,
+        "p": 89.5,
+        "y": "STC - Global machine process: Server task 'Singler Release': Reason for singler stop still set (SMC)",
+        "o": 4
+    },
+    {
+        "c": -10.72,
+        "p": 36.35,
+        "y": "SMC - Singler Gate Control: Sliding door no longer in end position due to external influence.: No longer in closed position",
+        "o": 74
+    },
+    {
+        "c": -11.98,
+        "p": 14.84,
+        "y": "MPC - BNP: Insufficient vacuum for shredder disposal system",
+        "o": 147
+    },
+    {
+        "c": -13.66,
+        "p": 0.0,
+        "y": "Shredded",
+        "o": 4082
+    },
+    {
+        "c": -14.68,
+        "p": 14.3,
+        "y": "HC-ID: X Recovery Type: x Object-ID: X",
+        "o": 101
+    },
+    {
+        "c": -14.81,
+        "p": 23.52,
+        "y": "Removed BNs 2000G2 (proposed/entered): X / X",
+        "o": 66
+    },
+    {
+        "c": -15.96,
+        "p": 58.57,
+        "y": "GPC 1 - Photo detector process: Photo detector dirty. Please clean photo detector(s). PDG 11 (64)",
+        "o": 14
+    },
+    {
+        "c": -15.97,
+        "p": 60.24,
+        "y": "STC - Photo detector process: Error occured at test of photo detectors. Please clean photo detector(s)! PDT 01 (32)",
+        "o": 13
+    },
+    {
+        "c": -16.49,
+        "p": 9.43,
+        "y": "HC-ID: X Recovery Type: x Object-ID: X Manual input",
+        "o": 104
+    },
+    {
+        "c": -16.78,
+        "p": 6.04,
+        "y": "Entered value: X (log entry no.: X)",
+        "o": 126
+    },
+    {
+        "c": -17.39,
+        "p": 0.17,
+        "y": "SMC - Large Continuous Feeder: Disturbance at banknote feeder. Please check banknotes.",
+        "o": 324
+    },
+    {
+        "c": -17.61,
+        "p": 38.94,
+        "y": "STC - Transport monitoring: Leading edge later than expected (PDT 02)",
+        "o": 26
+    },
+    {
+        "c": -18.3,
+        "p": 1.9,
+        "y": "Please drive transport empty! Make sure, that the sensor transport region is closed.",
+        "o": 164
+    },
+    {
+        "c": -18.47,
+        "p": 63.43,
+        "y": "DSC 12 - Bander controller: Bundler error: Foil Pressure Bar: time-out moving bundle trailing edge",
+        "o": 9
+    },
+    {
+        "c": -18.58,
+        "p": 8.68,
+        "y": "SMC - Large Continuous Feeder: Wrong level of a LCF detector: PS_LCF_FEPL_CLSR",
+        "o": 86
+    },
+    {
+        "c": -18.75,
+        "p": 6.18,
+        "y": "The headercard, ID = X, has been processed more than once in this AU.",
+        "o": 100
+    },
+    {
+        "c": -18.75,
+        "p": 65.67,
+        "y": "DSC 21 - Bander controller: Bander error: PD band weld: Sealing defective",
+        "o": 8
+    },
+    {
+        "c": -18.8,
+        "p": 1.44,
+        "y": "Make sure that the transport disturbance has been eliminated!",
+        "o": 169
+    },
+    {
+        "c": -19.99,
+        "p": 1.26,
+        "y": "STC - Global machine process: Transport-off with banknotes in transport section(s)",
+        "o": 155
+    },
+    {
+        "c": -20.44,
+        "p": 1.87,
+        "y": "MPC - BNP: Plausibility limit for fail-safe has been exceeded: More than X banknotes in a row have been driven into the fail-safe compartment.",
+        "o": 132
+    },
+    {
+        "c": -20.51,
+        "p": 1.79,
+        "y": "SRC - Transport monitoring: Banknote directed to FSE (PDIFS)",
+        "o": 133
+    },
+    {
+        "c": -21.06,
+        "p": 0.0,
+        "y": "HC-ID: X Recovery Type: . Object-ID: X",
+        "o": 677
+    },
+    {
+        "c": -21.13,
+        "p": 0.0,
+        "y": "HC-ID: X Recovery Type: H Object-ID: X",
+        "o": 815
+    },
+    {
+        "c": -21.35,
+        "p": 39.49,
+        "y": "DSC 12 - BNP: Please band manually! (Stacker 2)",
+        "o": 18
+    },
+    {
+        "c": -21.41,
+        "p": 86.26,
+        "y": "DSC 13 - Bander controller: Stacker error: OPA collector: bottom reached and PD OPA upper edge still covered",
+        "o": 3
+    },
+    {
+        "c": -21.42,
+        "p": 29.34,
+        "y": "STC - Photo detector process: Photo detector dirty. Please clean photo detector(s). PDT 02 (64)",
+        "o": 26
+    },
+    {
+        "c": -21.72,
+        "p": 0.01,
+        "y": "SMC - Singler Gate Control: Please close the top cover of the singler.",
+        "o": 315
+    },
+    {
+        "c": -21.88,
+        "p": 1.14,
+        "y": "Please empty the fail-safe compartment and the section between PDGS1 and security area and enter the number of the banknotes. Then place the banknotes in the reject compartment!",
+        "o": 133
+    },
+    {
+        "c": -22.79,
+        "p": 0.29,
+        "y": "System event: Jam recovery stop",
+        "o": 169
+    },
+    {
+        "c": -22.89,
+        "p": 0.28,
+        "y": "System event: Jam recovery start",
+        "o": 168
+    },
+    {
+        "c": -23.97,
+        "p": 69.77,
+        "y": "GPC 1 - Photo detector process: Photo detector dirty. Please clean photo detector(s). PDG 13 (64)",
+        "o": 5
+    },
+    {
+        "c": -24.23,
+        "p": 75.77,
+        "y": "SMC - Large Continuous Feeder: Wrong level of a LCF detector: PD_LCF_BN_LEVEL_ON_FEPL: While initializing sequence is running plate and rake must be empty. If available please remove banknotes from plate and rake.",
+        "o": 4
+    },
+    {
+        "c": -24.28,
+        "p": 0.0,
+        "y": "System event: Transport on",
+        "o": 494
+    },
+    {
+        "c": -24.55,
+        "p": 0.0,
+        "y": "System event: Transport off",
+        "o": 506
+    },
+    {
+        "c": -26.07,
+        "p": 1.36,
+        "y": "Removed BNs 2000G3 (proposed/entered): X / X",
+        "o": 89
+    },
+    {
+        "c": -26.27,
+        "p": 46.34,
+        "y": "System event: Manual banding active for Stacker 2",
+        "o": 10
+    },
+    {
+        "c": -28.17,
+        "p": 35.11,
+        "y": "DSC 21 - BNP: Please band manually! (Stacker 5)",
+        "o": 13
+    },
+    {
+        "c": -31.32,
+        "p": 3.21,
+        "y": "STC - Photo detector process: Photo detector dirty. Please clean photo detector(s). PDT 01 (64)",
+        "o": 47
+    },
+    {
+        "c": -31.62,
+        "p": 34.35,
+        "y": "Please remove non-transportable banknotes from the transport section 'Sensor / Reject Stacker / PDG 01' and enter the number. Then place the banknotes in the reject compartment!",
+        "o": 11
+    },
+    {
+        "c": -32.13,
+        "p": 0.0,
+        "y": "Removed BNs Other (proposed/entered): X / X",
+        "o": 224
+    },
+    {
+        "c": -34.87,
+        "p": 0.01,
+        "y": "Removed BNs 5000G5 (proposed/entered): X / X",
+        "o": 114
+    },
+    {
+        "c": -35.04,
+        "p": 64.96,
+        "y": "DSC 13 - BNP: Bander reel is empty. Please replace! (Stacker 3)",
+        "o": 4
+    },
+    {
+        "c": -36.67,
+        "p": 37.15,
+        "y": "STC - Transport monitoring: Queue overflow of announced objects for photo detector (PDG 01)",
+        "o": 8
+    },
+    {
+        "c": -37.64,
+        "p": 5.81,
+        "y": "DSC 12 - BNP: Please weld foil manually! (Stacker 2)",
+        "o": 26
+    },
+    {
+        "c": -38.51,
+        "p": 0.0,
+        "y": "Removed BNs 5000G3 (proposed/entered): X / X",
+        "o": 106
+    },
+    {
+        "c": -44.5,
+        "p": 70.64,
+        "y": "GPC 1 - Photo detector process: Error occured at test of photo detectors. Please clean photo detector(s)! PDE 12 (32)",
+        "o": 3
+    },
+    {
+        "c": -48.05,
+        "p": 33.48,
+        "y": "STC - Transport monitoring: Trailing edge later than expected (PDG 01)",
+        "o": 6
+    },
+    {
+        "c": -49.88,
+        "p": 39.23,
+        "y": "DSC 22 - Bander controller: Stacker error: Bottom Bundle Band: top position reached",
+        "o": 5
+    },
+    {
+        "c": -50.36,
+        "p": 49.64,
+        "y": "System event: Slow motion transport off",
+        "o": 4
+    },
+    {
+        "c": -53.46,
+        "p": 27.45,
+        "y": "DSC 21 - Bander controller: Bander error: PD band cut: not covered",
+        "o": 6
+    },
+    {
+        "c": -54.52,
+        "p": 63.29,
+        "y": "System event: Manual banding active for Stacker 3",
+        "o": 3
+    },
+    {
+        "c": -55.64,
+        "p": 1.34,
+        "y": "Removed BNs 1000G6 (proposed/entered): X / X",
+        "o": 19
+    },
+    {
+        "c": -55.96,
+        "p": 1.57,
+        "y": "SMC - External bundle delivery band: Not ready",
+        "o": 18
+    },
+    {
+        "c": -56.96,
+        "p": 61.42,
+        "y": "STC - Transport monitoring: Maximum object length exceeded (PDT 01)",
+        "o": 3
+    },
+    {
+        "c": -56.96,
+        "p": 61.42,
+        "y": "Please remove non-transportable banknotes from the transport section 'Sensor / Reject Stacker / PDT 01' and enter the number. Then place the banknotes in the reject compartment!",
+        "o": 3
+    },
+    {
+        "c": -58.02,
+        "p": 41.98,
+        "y": "Removed BNs 1000G4 (proposed/entered): X / X",
+        "o": 4
+    },
+    {
+        "c": -58.12,
+        "p": 22.63,
+        "y": "STC - Transport Open Control: Close the sensor transport area before pressing transport on",
+        "o": 6
+    },
+    {
+        "c": -58.27,
+        "p": 30.26,
+        "y": "GPC 1 - Photo detector process: Error occured at test of photo detectors. Please clean photo detector(s)! PDG 11 (32)",
+        "o": 5
+    },
+    {
+        "c": -58.69,
+        "p": 16.6,
+        "y": "STC - Photo detector process: Photo detector dirty. Please clean photo detector(s). PDT 04 (64)",
+        "o": 7
+    },
+    {
+        "c": -59.1,
+        "p": 9.38,
+        "y": "DSC 23 - BNP: Manual push out of output-packages is active / necessary. (Stacker 7)",
+        "o": 9
+    },
+    {
+        "c": -66.04,
+        "p": 22.5,
+        "y": "DSC 21 - BNP: Please weld foil manually! (Stacker 5)",
+        "o": 5
+    },
+    {
+        "c": -66.1,
+        "p": 0.11,
+        "y": "Removed BNs 1000G7 (proposed/entered): X / X",
+        "o": 21
+    },
+    {
+        "c": -70.1,
+        "p": 50.55,
+        "y": "Sensor System - Detector Position 8 (NSC2RL): Clean sensor -- Camera window is dirty. Call service if error persists.",
+        "o": 3
+    },
+    {
+        "c": -71.98,
+        "p": 0.17,
+        "y": "DSC 12 - BNP: Manual push out of output-packages is active / necessary. (Stacker 2)",
+        "o": 16
+    },
+    {
+        "c": -74.77,
+        "p": 5.33,
+        "y": "DSC 22 - BNP: Manual push out of output-packages is active / necessary. (Stacker 6)",
+        "o": 7
+    },
+    {
+        "c": -75.59,
+        "p": 13.93,
+        "y": "DSC 12 - Bander controller: Stacker error: Bottom Bundle Band: bottom position reached",
+        "o": 5
+    },
+    {
+        "c": -81.02,
+        "p": 18.98,
+        "y": "GPC 2 - Photo detector process: Photo detector dirty. Please clean photo detector(s). PDG 21 (64)",
+        "o": 4
+    },
+    {
+        "c": -82.64,
+        "p": 1.14,
+        "y": "System event: Manual banding active for Stacker 5",
+        "o": 8
+    },
+    {
+        "c": -85.34,
+        "p": 6.59,
+        "y": "SMC - Large Continuous Feeder: Error during rake movement: Rake front movement failed. Confirm the disturbance message. Please call service if the disturbance occurs again.",
+        "o": 5
+    },
+    {
+        "c": -87.65,
+        "p": 12.35,
+        "y": "DSC 12 - Bander controller: Stacker error: OPA collector: time-out moving to top",
+        "o": 4
+    },
+    {
+        "c": -92.07,
+        "p": 25.53,
+        "y": "DSC 23 - Bander controller: Stacker error: OPA collector: time-out moving to top",
+        "o": 3
+    },
+    {
+        "c": -92.07,
+        "p": 25.53,
+        "y": "DSC 23 - Bander controller: Stacker error: OPA collector: time-out moving to bottom",
+        "o": 3
+    },
+    {
+        "c": -93.6,
+        "p": 22.91,
+        "y": "DSC 13 - Bander controller: Band error at back of machine: Disturbance of the band transport First remove loose banknotes from stacker and remove band at the front of the machine. Then refeed the band at the back of the machine. Put the loose banknotes back on stacker",
+        "o": 3
+    },
+    {
+        "c": -94.43,
+        "p": 21.36,
+        "y": "SMC - Pressure Control: Pressure Error: Not enough vacuum",
+        "o": 3
+    },
+    {
+        "c": -97.97,
+        "p": 2.03,
+        "y": "DSC 13 - BNP: Band advancing is active (Stacker 3)",
+        "o": 4
+    },
+    {
+        "c": -98.39,
+        "p": 1.61,
+        "y": "DSC 13 - BNP: Please advance band! (Stacker 3)",
+        "o": 4
+    },
+    {
+        "c": -99.22,
+        "p": 7.93,
+        "y": "DSC 21 - Bander controller: Bander error: Stacking area blocked (standing BN?)",
+        "o": 3
+    },
+    {
+        "c": -99.23,
+        "p": 7.93,
+        "y": "DSC 14 - BNP: Please advance band! (Stacker 4)",
+        "o": 3
+    },
+    {
+        "c": -99.97,
+        "p": 1.51,
+        "y": "SMC - Large Continuous Feeder: Error during rake movement: Rake up movement to feeder position failed. Confirm the disturbance message. Please call service if the disturbance occurs again.",
+        "o": 3
+    }
+]
