@@ -177,9 +177,11 @@ def parseAggregates ():
                 if (r):
                     dd = r["t"].split(", ")[0]
                     r["t"] = r["t"].split(", ")[1]
-                    if (r["m"] not in ret):
-                        ret[r["m"]] = 0
-                    ret[r["m"]] += 1
+                    if (dd not in ret):
+                        ret[dd] = {}
+                    if (r["m"] not in ret[dd]):
+                        ret[dd][r["m"]] = 0
+                    ret[dd][r["m"]] += 1
                 st = i
             else:
                 st += i
@@ -188,11 +190,17 @@ def parseAggregates ():
     if (r):
         dd = r['t'].split(', ')[0]
         r["t"] = r["t"].split(", ")[1]
-        if (r["m"] not in ret):
-            ret[r["m"]] = 0
-        ret[r["m"]] += 1
+        if (dd not in ret):
+            ret[dd] = {}
+        if (r["m"] not in ret[dd]):
+            ret[dd][r["m"]] = 0
+        ret[dd][r["m"]] += 1
 
-    return dict(sorted(ret.items(), key=lambda item:item[1], reverse=True))
+    ret2 = {}
+    for x in ret:
+        ret2[x] = dict(sorted(ret[x].items(), key=lambda item:item[1], reverse=True))
+
+    return ret2
 
 def removeNumbers (dictIn):
     ret = {}
@@ -230,6 +238,11 @@ def appendToFile ():
     f = open(filename, "w")
     f.write(json.dumps(data, indent=4))
     f.close()
+
+def createFile ():
+    f = open(filename.split('/')[-1], "w")
+    f.write(json.dumps(ret, indent=4))
+    f.close()
            
 def summarizeDays():
     ret = parseDays()
@@ -247,3 +260,6 @@ def summarizeDays():
 
 ret = parseDays ()
 appendToFile ()
+
+# ret = parseAggregates ()
+# createFile ()
